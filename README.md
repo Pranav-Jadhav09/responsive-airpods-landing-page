@@ -7,7 +7,7 @@
 <br />
 <br />
 
-<img src="" style="width: 100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktM8A_O35OKdv0vpPiF32_pIGb51AWBHuxA&usqp=CAU" style="width: 100">
 
 <h2 align="center">Apple Airpods Landing Page</h2>
 Apple Airpods is a fully responsive landing page website, responsive for all devices, built using HTML5, CSS3, and JavaScript. Also used GSAP library, timelinemax and scrollMagic. 
