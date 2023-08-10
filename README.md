@@ -11,7 +11,7 @@
 
 <h2 align="center">Apple Airpods Landing Page</h2>
 Apple Airpods is a fully responsive landing page website, responsive for all devices, built using HTML5, CSS3, and JavaScript. Also used GSAP library, timelinemax and scrollMagic. 
-<a href="https://pranav-jadhav09.github.io/responsive-lamborghini-landing-page/"><strong>➥ Live Demo</strong></a>
+<a href="https://pranav-jadhav09.github.io/responsive-lamborghini-landing-page/"><br /><strong>➥ Live Demo</strong></a>
 
 </div>
 
